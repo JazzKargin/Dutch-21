@@ -1,0 +1,2 @@
+# call this command: pip install -r requirements.txt
+pytest
